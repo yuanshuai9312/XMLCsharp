@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<personcontract>
+  <person personid="1">
+    <name>张三</name>
+    <age>40</age>
+    <tel>12345678</tel>
+    <job>教师</job>
+    <adr>1栋101</adr>
+  </person>
+  <person personid="2">
+    <name>李四</name>
+    <age>25</age>
+    <tel>23456789</tel>
+    <job>律师</job>
+    <adr>1栋102</adr>
+  </person>
+  <person personid="3">
+    <name>王五</name>
+    <age>30</age>
+    <tel>34567890</tel>
+    <job>客服</job>
+    <adr>1栋103</adr>
+  </person>
+</personcontract>
